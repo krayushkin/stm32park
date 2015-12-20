@@ -1,0 +1,7 @@
+*.o
+*.chm
+*.pdf
+Default/
+*.lib
+*.a
+
