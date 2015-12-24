@@ -98,9 +98,12 @@
 									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\Inc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\STM32F1xx_HAL_Driver\Inc&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\BSP\STM32F1xx_Nucleo&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\diag&quot;"/>
 								</option>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs.1653837859" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs" useByScannerDiscovery="false" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
+									<listOptionValue builtIn="false" value="OS_USE_TRACE_SEMIHOSTING_STDOUT"/>
+									<listOptionValue builtIn="false" value="TRACE"/>
 									<listOptionValue builtIn="false" value="STM32F103xB"/>
 									<listOptionValue builtIn="false" value="USE_STM32F1xx_NUCLEO"/>
 								</option>

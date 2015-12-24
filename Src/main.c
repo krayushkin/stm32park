@@ -38,6 +38,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "main.h"
 
+#include "Trace.h"
 /** @addtogroup STM32F1xx_HAL_Examples
   * @{
   */
@@ -83,7 +84,7 @@ int main(void)
 
   /* Add your application code here
      */
-
+trace_printf("Hello\n");
   /* Infinite loop */
   while (1)
   {
