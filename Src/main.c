@@ -85,9 +85,22 @@ int main(void)
   /* Add your application code here
      */
 trace_printf("Hello\n");
+
+
+__HAL_RCC_GPIOC_CLK_ENABLE();
+GPIO_InitTypeDef gpioc;
+gpioc.Mode = GPIO_MODE_OUTPUT_PP;
+gpioc.Pin = GPIO_PIN_13;
+gpioc.Pull = GPIO_NOPULL;
+gpioc.Speed = GPIO_SPEED_HIGH;
+
+HAL_GPIO_Init(GPIOC, &gpioc);
+
+
   /* Infinite loop */
   while (1)
   {
+	  HAL_GPIO_TogglePin(GPIOC, GPIO_PIN_13);
   }
 }
 
