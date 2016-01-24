@@ -93,13 +93,13 @@
 							</tool>
 							<tool id="ilg.gnuarmeclipse.managedbuild.cross.tool.c.compiler.738511385" name="Cross ARM C Compiler" superClass="ilg.gnuarmeclipse.managedbuild.cross.tool.c.compiler">
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.include.paths.1751644980" name="Include paths (-I)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.include.paths" useByScannerDiscovery="false" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\CMSIS\Device\ST\STM32F1xx\Include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\CMSIS\Include&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\Inc&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\rfid&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\STM32F1xx_HAL_Driver\Inc&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\BSP\STM32F1xx_Nucleo&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\krayu\Downloads\test\diag&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;F:\backup\work\stm32\stm32park\CMSIS\Device\ST\STM32F1xx\Include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;F:\backup\work\stm32\stm32park\CMSIS\Include&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;F:\backup\work\stm32\stm32park\Inc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;F:\backup\work\stm32\stm32park\rfid&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;F:\backup\work\stm32\stm32park\STM32F1xx_HAL_Driver\Inc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;F:\backup\work\stm32\stm32park\BSP\STM32F1xx_Nucleo&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;F:\backup\work\stm32\stm32park\diag&quot;"/>
 								</option>
 								<option id="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs.1653837859" name="Defined symbols (-D)" superClass="ilg.gnuarmeclipse.managedbuild.cross.option.c.compiler.defs" useByScannerDiscovery="false" valueType="definedSymbols">
 									<listOptionValue builtIn="false" value="USE_HAL_DRIVER"/>
